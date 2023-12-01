@@ -1,0 +1,6 @@
+{
+	"appId": "com.aniflow2.app",
+	"appName": "Aniflow 2",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
